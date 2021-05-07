@@ -1,6 +1,6 @@
 # H-Appy
 
-| [Team Members](#team-members) | [Description](#description) | [Usage](#usage) | [Tech Stack](#tech-stack) | [Installation](#installation) | [Code Stats](#code-stats) | [Project goals](#project-goals) |
+| [Team Members](#team-members) | [Description](#description) | [Usage](#usage) | [Tech Stack](#tech-stack) | [Installation](#installation) | [Project goals](#project-goals) |
 
 An activity finder app in the style of a restaurant menu, to remind you of fun things to do that make you happy.
 
@@ -122,14 +122,6 @@ An about screen can be navigated to through the drawer navigator, to read about 
 This demo video shows a typical user narrative - signing in, looking at available activities in a particularly category based on the time they have available, adding a custom one, adding one from the database to favourites, and then searching for one.
 
 https://user-images.githubusercontent.com/48794743/116425852-86ea3e80-a83a-11eb-941c-3df61d2b3949.mp4
-
-
----
-
-<div style="text-align: right"><a href="#makers-bnb">Back to top</a></div>
-
-## Code Stats
-
 
 
 ---
